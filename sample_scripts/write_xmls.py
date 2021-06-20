@@ -8,7 +8,7 @@ from optimization_utils.xml_generate_utils import render_xml
 
 # variables
 DATA_PATH = "../data"
-TEMPLATE_PATH = "../data/Madymo.xml"
+TEMPLATE_PATH = "../data/Defines.xml"
 parameter_dicts = [
 	{"Friction_Headrest": "1.5", "Friction_Seat": "2"},
 	{"Friction_Headrest": "1.5", "Friction_Seat": "1.5"},

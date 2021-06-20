@@ -76,13 +76,8 @@ Explico Engineering Co. DRD]]>
       ID="1"
       NAME="Variables_DEF"
       >
-      <DEFINE
-         VAR_NAME="Friction_Seat"
-         VALUE="1"
-      />
-      <DEFINE
-         VAR_NAME="Friction_Headrest"
-         VALUE="1"
+      <INCLUDE
+         FILE="sample_render0.xml"
       />
    </GROUP_DEFINE>
    <COMMENT>

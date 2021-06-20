@@ -17,7 +17,7 @@ def render_xml(input_path, output_path, parameter_dict):
 		raise ValueError("Not all parameter_dict values were strings")
 
 	tree = ET.parse(input_path)
-	tree_group_define_elements = tree.find('GROUP_DEFINE').findall('DEFINE')
+	tree_group_define_elements = tree.findall('DEFINE')
 	for element in tree_group_define_elements:
 		if element.get('VAR_NAME') in parameter_dict:
 			element.set('VALUE', parameter_dict[element.get('VAR_NAME')])
