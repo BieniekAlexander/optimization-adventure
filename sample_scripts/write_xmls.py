@@ -1,9 +1,8 @@
 # imports
 import os, sys
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath('..'))
 
 from optimization_utils.xml_generate_utils import render_xml
-
 
 
 # variables
