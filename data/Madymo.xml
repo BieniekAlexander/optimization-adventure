@@ -24,7 +24,7 @@ Explico Engineering Co. DRD]]>
    <CONTROL_ANALYSIS.TIME
       TIME_START="-.4"
       INT_MTH="EULER"
-      TIME_END="0.4"
+      TIME_END="0.506"
       TIME_STEP="1.0E-04"
       RAMP="0.0 0.5"
       RACO="0.01 0.1"
@@ -77,16 +77,16 @@ Explico Engineering Co. DRD]]>
       NAME="Variables_DEF"
       >
       <INCLUDE
-         FILE="sample_render0.xml"
+         FILE="experiment.xml"
       />
    </GROUP_DEFINE>
    <COMMENT>
 <![CDATA[--Set analysis output below--]]>
    </COMMENT>
    <CONTROL_OUTPUT
-      TIME_STEP="1.000000E-05"
+      TIME_STEP="1.000000E-04"
       TIME_STEP_ANI="0.002"
-      TIME_START_OUTPUT="0"
+      TIME_START_OUTPUT="-0.0934"
       >
       <COMMENT>
 <![CDATA[--Set body and joint constraint outputs below--

@@ -1,4 +1,0 @@
-<MADYMO_INCLUDE RELEASE="R2020.1" DESCRIPTION="Template Madymo include file">
-   <DEFINE VAR_NAME="Friction_Seat" VALUE="2" />
-   <DEFINE VAR_NAME="Friction_Headrest" VALUE="1.5" />
-</MADYMO_INCLUDE>

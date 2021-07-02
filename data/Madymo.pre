@@ -1,0 +1,105 @@
+
+------------------------------- DEFINE VALUES --------------------------------
+
+ =============================================================================
+ Overview of DEFINE elements
+ =============================================================================
+ Define VAR_NAME :
+  |-- (SCOPE / VALUE / REDEFINE)
+  |-- ...
+  ==> Value within scope SCOPE : VALUE
+ -----------------------------------------------------------------------------
+
+ AB_trigger :
+ |-- ( MADYMO / 0.025 / WARNING )
+
+ ==> Value within scope MADYMO : 0.025
+
+ -----------------------------------------------------------------------------
+
+ Belt_density :
+ |-- ( MADYMO / 1325 / WARNING )
+
+ ==> Value within scope MADYMO : 1325
+
+ -----------------------------------------------------------------------------
+
+ Belt_hysteresis :
+ |-- ( MADYMO / 4.0E5 / WARNING )
+
+ ==> Value within scope MADYMO : 4.0E5
+
+ -----------------------------------------------------------------------------
+
+ Belt_thickness :
+ |-- ( MADYMO / 0.001 / WARNING )
+
+ ==> Value within scope MADYMO : 0.001
+
+ -----------------------------------------------------------------------------
+
+ Belt_width :
+ |-- ( MADYMO / 0.050 / WARNING )
+
+ ==> Value within scope MADYMO : 0.050
+
+ -----------------------------------------------------------------------------
+
+ Buckle_Lock_ON_OFF :
+ |-- ( MADYMO / 0 / WARNING )
+
+ ==> Value within scope MADYMO : 0
+
+ -----------------------------------------------------------------------------
+
+ F_Lap_minus_Shoulder :
+ |-- ( MADYMO / 100 / WARNING )
+
+ ==> Value within scope MADYMO : 100
+
+ -----------------------------------------------------------------------------
+
+ Friction_Headrest :
+ |-- ( MADYMO / 1.0 / WARNING )
+
+ ==> Value within scope MADYMO : 1.0
+
+ -----------------------------------------------------------------------------
+
+ Friction_High :
+ |-- ( MADYMO / 2.0 / WARNING )
+
+ ==> Value within scope MADYMO : 2.0
+
+ -----------------------------------------------------------------------------
+
+ Friction_Low :
+ |-- ( MADYMO / 0.1 / WARNING )
+
+ ==> Value within scope MADYMO : 0.1
+
+ -----------------------------------------------------------------------------
+
+ Friction_Seat :
+ |-- ( MADYMO / 0.4 / WARNING )
+
+ ==> Value within scope MADYMO : 0.4
+
+ -----------------------------------------------------------------------------
+
+=============================== USAGE SECTION ================================
+
+Usage - UNUSED DEFINE ELEMENTS
+
+Unused VAR_NAME: AB_trigger, Belt_density, Belt_hysteresis, Belt_thickness, Belt_width, Buckle_Lock_ON_OFF, F_Lap_minus_Shoulder, Friction_High, Friction_Low
+
+
+Usage - ATTRIBUTE LIST
+
+attribute : FRIC_COEF (MADYMO -> CONTACT.MB_MB 'Dummy_Seat_cnt' -> FRIC_COEF), value : .50*#Friction_Seat = .50*(0.4) = 0.2
+attribute : FRIC_COEF (MADYMO -> CONTACT.MB_MB 'Dummy_headrest_cnt' -> FRIC_COEF), value : .28*#Friction_Headrest = .28*(1.0) = 0.28
+
+
+Usage - NODE LIST
+
+----------------------------- END DEFINE VALUES ------------------------------

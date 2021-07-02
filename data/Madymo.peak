@@ -1,0 +1,765 @@
+--------------------------------------------------------------------------------
+ MADYMO3D :  INJURY PARAMETERS AND PEAK VALUES
+--------------------------------------------------------------------------------
+ Madymo Validation 03.26.2021                      
+ Explico Engineering Co. DRD                       
+ --                                                
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+ INJURY PARAMETERS
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+ PEAK VALUES OF SIGNALS
+--------------------------------------------------------------------------------
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/1006 ( /Scaled_Hybrid_III_50th/HeadCG_acc ) CFC1000
+ [ Type : Linear accelerations ]
+  Res. acceleration (m/s**2)            2.3316E-01   365.40  1.4157E+02   109.90
+  X-comp. acceleration (m/s**2)        -1.6342E+01    61.30  1.4060E+02   111.60
+  Y-comp. acceleration (m/s**2)        -2.2121E+00   125.90  1.4586E+00    81.10
+  Z-comp. acceleration (m/s**2)        -2.2194E+01    78.70  2.0165E+01   108.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/6004 ( /Scaled_Hybrid_III_50th/Pelvis_acc ) CFC1000
+ [ Type : Linear accelerations ]
+  Res. acceleration (m/s**2)            2.9729E-01   -53.30  9.9343E+01    70.00
+  X-comp. acceleration (m/s**2)        -2.1601E+01   433.50  9.8887E+01    70.00
+  Y-comp. acceleration (m/s**2)        -8.7459E+00   114.90  3.2287E+00   425.90
+  Z-comp. acceleration (m/s**2)        -2.1655E+01   298.60  2.3324E+01    61.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2016 ( /Scaled_Hybrid_III_50th/NeckUp_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      8.7415E-02   459.10  1.6137E+01    83.70
+  Inertial x-comp. torque (Nm)         -7.2391E-01   103.70  7.2957E-01   153.00
+  Inertial y-comp. torque (Nm)         -9.0205E+00   138.70  1.6128E+01    83.70
+  Inertial z-comp. torque (Nm)         -3.6136E-01   149.70  6.0212E-01    91.60
+  Joint x-comp. torque (Nm)            -7.6455E-01   103.80  6.8225E-01   149.70
+  Joint y-comp. torque (Nm)            -1.6130E+01    83.70  9.0173E+00   138.70
+  Joint z-comp. torque (Nm)            -6.0919E-01    93.30  4.6915E-01   151.20
+  Body x-comp. torque (Nm)             -7.9337E-01   103.60  7.1862E-01   149.80
+  Body y-comp. torque (Nm)             -9.0173E+00   138.70  1.6130E+01    83.70
+  Body z-comp. torque (Nm)             -4.1162E-01   151.40  5.8241E-01    92.40
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2016 ( /Scaled_Hybrid_III_50th/NeckUp_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      8.7415E-02   459.10  1.6137E+01    83.70
+  Inertial x-comp. torque (Nm)         -7.2957E-01   153.00  7.2391E-01   103.70
+  Inertial y-comp. torque (Nm)         -1.6128E+01    83.70  9.0205E+00   138.70
+  Inertial z-comp. torque (Nm)         -6.0212E-01    91.60  3.6136E-01   149.70
+  Joint x-comp. torque (Nm)            -6.8225E-01   149.70  7.6455E-01   103.80
+  Joint y-comp. torque (Nm)            -9.0173E+00   138.70  1.6130E+01    83.70
+  Joint z-comp. torque (Nm)            -4.6915E-01   151.20  6.0919E-01    93.30
+  Body x-comp. torque (Nm)             -6.8225E-01   149.70  7.6455E-01   103.80
+  Body y-comp. torque (Nm)             -1.6130E+01    83.70  9.0173E+00   138.70
+  Body z-comp. torque (Nm)             -6.0919E-01    93.30  4.6915E-01   151.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2012 ( /Scaled_Hybrid_III_50th/NeckLow_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      2.4356E-01   455.10  2.7622E+01    68.80
+  Inertial x-comp. torque (Nm)         -1.4567E+00   223.70  2.3909E+00   148.10
+  Inertial y-comp. torque (Nm)         -2.3745E+01   107.70  2.7617E+01    68.80
+  Inertial z-comp. torque (Nm)         -6.0943E-01   151.10  8.2783E-01    85.90
+  Joint x-comp. torque (Nm)            -1.6681E+00   223.70  2.2972E+00   152.50
+  Joint y-comp. torque (Nm)            -2.7620E+01    68.80  2.3739E+01   107.70
+  Joint z-comp. torque (Nm)            -8.6243E-01    86.50  8.4832E-01   136.20
+  Body x-comp. torque (Nm)             -1.6681E+00   223.70  2.2972E+00   152.50
+  Body y-comp. torque (Nm)             -2.3739E+01   107.70  2.7620E+01    68.80
+  Body z-comp. torque (Nm)             -8.4832E-01   136.20  8.6243E-01    86.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2012 ( /Scaled_Hybrid_III_50th/NeckLow_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      2.4356E-01   455.10  2.7622E+01    68.80
+  Inertial x-comp. torque (Nm)         -2.3909E+00   148.10  1.4567E+00   223.70
+  Inertial y-comp. torque (Nm)         -2.7617E+01    68.80  2.3745E+01   107.70
+  Inertial z-comp. torque (Nm)         -8.2783E-01    85.90  6.0943E-01   151.10
+  Joint x-comp. torque (Nm)            -2.2972E+00   152.50  1.6681E+00   223.70
+  Joint y-comp. torque (Nm)            -2.3739E+01   107.70  2.7620E+01    68.80
+  Joint z-comp. torque (Nm)            -8.4832E-01   136.20  8.6243E-01    86.50
+  Body x-comp. torque (Nm)             -2.2972E+00   152.50  1.6681E+00   223.70
+  Body y-comp. torque (Nm)             -2.7620E+01    68.80  2.3739E+01   107.70
+  Body z-comp. torque (Nm)             -8.6243E-01    86.50  8.4832E-01   136.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5010 ( /Scaled_Hybrid_III_50th/LumbarSpineUp_lce_T ) - On parent CFC1000
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.0494E+00   454.50  1.0675E+02    90.50
+  Inertial x-comp. torque (Nm)         -6.4420E+00   505.30  1.0333E+01   103.50
+  Inertial y-comp. torque (Nm)         -1.0654E+02    90.50  4.6876E+01    53.10
+  Inertial z-comp. torque (Nm)         -3.2008E+00   258.40  7.3403E+00   107.70
+  Joint x-comp. torque (Nm)            -6.3216E+00   505.30  1.2979E+01   103.60
+  Joint y-comp. torque (Nm)            -4.6884E+01    53.10  1.0644E+02    90.50
+  Joint z-comp. torque (Nm)            -5.2990E+00   111.60  2.8994E+00   258.40
+  Body x-comp. torque (Nm)             -6.8041E+00   505.40  1.3779E+01   104.00
+  Body y-comp. torque (Nm)             -1.0644E+02    90.50  4.6884E+01    53.10
+  Body z-comp. torque (Nm)             -1.5388E+00   -93.40  4.4451E+00    77.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5010 ( /Scaled_Hybrid_III_50th/LumbarSpineUp_lce_T ) - On child CFC1000
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.0494E+00   454.50  1.0675E+02    90.50
+  Inertial x-comp. torque (Nm)         -1.0333E+01   103.50  6.4420E+00   505.30
+  Inertial y-comp. torque (Nm)         -4.6876E+01    53.10  1.0654E+02    90.50
+  Inertial z-comp. torque (Nm)         -7.3403E+00   107.70  3.2008E+00   258.40
+  Joint x-comp. torque (Nm)            -1.2979E+01   103.60  6.3216E+00   505.30
+  Joint y-comp. torque (Nm)            -1.0644E+02    90.50  4.6884E+01    53.10
+  Joint z-comp. torque (Nm)            -2.8994E+00   258.40  5.2990E+00   111.60
+  Body x-comp. torque (Nm)             -1.3543E+01   103.70  6.6507E+00   505.30
+  Body y-comp. torque (Nm)             -4.6884E+01    53.10  1.0644E+02    90.50
+  Body z-comp. torque (Nm)             -4.6371E+00    77.70  2.0244E+00   258.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5008 ( /Scaled_Hybrid_III_50th/LumbarSpineLow_lce_T ) - On parent CFC1000
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.4187E+00   426.20  4.2562E+01   196.60
+  Inertial x-comp. torque (Nm)         -9.6894E+00   506.00  4.9646E+00   123.70
+  Inertial y-comp. torque (Nm)         -2.4783E+01   105.00  4.2525E+01   196.70
+  Inertial z-comp. torque (Nm)         -1.5086E+01    71.90  5.7620E+00   119.80
+  Joint x-comp. torque (Nm)            -1.1226E+01    72.00  6.9194E+00   122.50
+  Joint y-comp. torque (Nm)            -4.2517E+01   196.60  2.4848E+01   105.00
+  Joint z-comp. torque (Nm)            -5.7239E+00   111.50  1.0291E+01    70.00
+  Body x-comp. torque (Nm)             -1.0189E+01   506.00  6.2156E+00   123.10
+  Body y-comp. torque (Nm)             -2.4848E+01   105.00  4.2517E+01   196.60
+  Body z-comp. torque (Nm)             -1.3706E+01    71.80  4.9302E+00   115.90
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5008 ( /Scaled_Hybrid_III_50th/LumbarSpineLow_lce_T ) - On child CFC1000
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.4187E+00   426.20  4.2562E+01   196.60
+  Inertial x-comp. torque (Nm)         -4.9646E+00   123.70  9.6894E+00   506.00
+  Inertial y-comp. torque (Nm)         -4.2525E+01   196.70  2.4783E+01   105.00
+  Inertial z-comp. torque (Nm)         -5.7620E+00   119.80  1.5086E+01    71.90
+  Joint x-comp. torque (Nm)            -6.9194E+00   122.50  1.1226E+01    72.00
+  Joint y-comp. torque (Nm)            -2.4848E+01   105.00  4.2517E+01   196.60
+  Joint z-comp. torque (Nm)            -1.0291E+01    70.00  5.7239E+00   111.50
+  Body x-comp. torque (Nm)             -6.1081E+00   123.10  1.0173E+01   506.00
+  Body y-comp. torque (Nm)             -4.2517E+01   196.60  2.4848E+01   105.00
+  Body z-comp. torque (Nm)             -4.9492E+00   116.30  1.3927E+01    71.80
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7020 ( /Scaled_Hybrid_III_50th/FemurL_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      2.6155E-01    23.20  4.0988E+01   424.00
+  Inertial x-comp. torque (Nm)         -5.6837E+00   498.70  6.7941E+00   114.40
+  Inertial y-comp. torque (Nm)         -2.4121E+01   264.50  4.0802E+01   423.90
+  Inertial z-comp. torque (Nm)         -8.2172E+00   428.60  1.8795E+01   117.20
+  Joint x-comp. torque (Nm)            -7.4266E+00   428.40  1.4766E+01   117.30
+  Joint y-comp. torque (Nm)            -4.0728E+01   423.90  2.4130E+01   264.50
+  Joint z-comp. torque (Nm)            -7.5365E+00   498.60  1.3213E+01   116.30
+  Body x-comp. torque (Nm)             -6.2268E+00   498.50  1.1794E+01   116.10
+  Body y-comp. torque (Nm)             -2.4195E+01   264.50  4.0810E+01   423.90
+  Body z-comp. torque (Nm)             -8.1006E+00   428.50  1.6319E+01   117.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7020 ( /Scaled_Hybrid_III_50th/FemurL_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      2.6155E-01    23.20  4.0988E+01   424.00
+  Inertial x-comp. torque (Nm)         -6.7941E+00   114.40  5.6837E+00   498.70
+  Inertial y-comp. torque (Nm)         -4.0802E+01   423.90  2.4121E+01   264.50
+  Inertial z-comp. torque (Nm)         -1.8795E+01   117.20  8.2172E+00   428.60
+  Joint x-comp. torque (Nm)            -1.4766E+01   117.30  7.4266E+00   428.40
+  Joint y-comp. torque (Nm)            -2.4130E+01   264.50  4.0728E+01   423.90
+  Joint z-comp. torque (Nm)            -1.3213E+01   116.30  7.5365E+00   498.60
+  Body x-comp. torque (Nm)             -1.1794E+01   116.10  6.2268E+00   498.50
+  Body y-comp. torque (Nm)             -4.0810E+01   423.90  2.4195E+01   264.50
+  Body z-comp. torque (Nm)             -1.6319E+01   117.20  8.1006E+00   428.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7022 ( /Scaled_Hybrid_III_50th/FemurR_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      2.3233E-01   345.40  4.0698E+01   425.90
+  Inertial x-comp. torque (Nm)         -4.2978E+00   493.10  4.8933E+00   432.10
+  Inertial y-comp. torque (Nm)         -2.6651E+01   265.70  4.0532E+01   425.90
+  Inertial z-comp. torque (Nm)         -7.2509E+00   115.60  6.7821E+00    69.40
+  Joint x-comp. torque (Nm)            -7.3265E+00   115.60  5.7302E+00   495.80
+  Joint y-comp. torque (Nm)            -4.0536E+01   425.90  2.6681E+01   265.70
+  Joint z-comp. torque (Nm)            -4.3841E+00   492.90  5.7392E+00    69.70
+  Body x-comp. torque (Nm)             -4.1503E+00   493.00  4.8321E+00   432.30
+  Body y-comp. torque (Nm)             -2.6681E+01   265.70  4.0615E+01   425.90
+  Body z-comp. torque (Nm)             -7.4474E+00   115.60  6.1367E+00    69.30
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7022 ( /Scaled_Hybrid_III_50th/FemurR_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      2.3233E-01   345.40  4.0698E+01   425.90
+  Inertial x-comp. torque (Nm)         -4.8933E+00   432.10  4.2978E+00   493.10
+  Inertial y-comp. torque (Nm)         -4.0532E+01   425.90  2.6651E+01   265.70
+  Inertial z-comp. torque (Nm)         -6.7821E+00    69.40  7.2509E+00   115.60
+  Joint x-comp. torque (Nm)            -5.7302E+00   495.80  7.3265E+00   115.60
+  Joint y-comp. torque (Nm)            -2.6681E+01   265.70  4.0536E+01   425.90
+  Joint z-comp. torque (Nm)            -5.7392E+00    69.70  4.3841E+00   492.90
+  Body x-comp. torque (Nm)             -4.8321E+00   432.30  4.1503E+00   493.00
+  Body y-comp. torque (Nm)             -4.0615E+01   425.90  2.6681E+01   265.70
+  Body z-comp. torque (Nm)             -6.1367E+00    69.30  7.4474E+00   115.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7024 ( /Scaled_Hybrid_III_50th/TibiaUpL_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.6028E-01   466.30  9.2484E+01    70.70
+  Inertial x-comp. torque (Nm)         -4.2967E+00   429.10  6.3006E+00   115.00
+  Inertial y-comp. torque (Nm)         -1.9672E+01   301.60  9.2330E+01    70.70
+  Inertial z-comp. torque (Nm)         -6.2884E+00    73.50  1.0865E+01   116.70
+  Joint x-comp. torque (Nm)            -6.3652E+00   429.10  1.2810E+01   116.30
+  Joint y-comp. torque (Nm)            -9.2418E+01    70.70  1.9686E+01   301.60
+  Joint z-comp. torque (Nm)            -2.0679E+00   101.60  3.3139E+00    73.50
+  Body x-comp. torque (Nm)             -6.3652E+00   429.10  1.2810E+01   116.30
+  Body y-comp. torque (Nm)             -1.9686E+01   301.60  9.2418E+01    70.70
+  Body z-comp. torque (Nm)             -3.3139E+00    73.50  2.0679E+00   101.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7024 ( /Scaled_Hybrid_III_50th/TibiaUpL_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.6028E-01   466.30  9.2484E+01    70.70
+  Inertial x-comp. torque (Nm)         -6.3006E+00   115.00  4.2967E+00   429.10
+  Inertial y-comp. torque (Nm)         -9.2330E+01    70.70  1.9672E+01   301.60
+  Inertial z-comp. torque (Nm)         -1.0865E+01   116.70  6.2884E+00    73.50
+  Joint x-comp. torque (Nm)            -1.2810E+01   116.30  6.3652E+00   429.10
+  Joint y-comp. torque (Nm)            -1.9686E+01   301.60  9.2418E+01    70.70
+  Joint z-comp. torque (Nm)            -3.3139E+00    73.50  2.0679E+00   101.60
+  Body x-comp. torque (Nm)             -1.2810E+01   116.30  6.3652E+00   429.10
+  Body y-comp. torque (Nm)             -9.2418E+01    70.70  1.9686E+01   301.60
+  Body z-comp. torque (Nm)             -2.0679E+00   101.60  3.3139E+00    73.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7028 ( /Scaled_Hybrid_III_50th/TibiaLowL_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      6.3975E-02   346.00  7.7981E+01    71.70
+  Inertial x-comp. torque (Nm)         -3.0193E+00    73.00  4.1114E+00   435.20
+  Inertial y-comp. torque (Nm)         -2.6308E+01   433.20  7.7883E+01    71.70
+  Inertial z-comp. torque (Nm)         -4.9898E+00    73.50  3.8320E+00   116.70
+  Joint x-comp. torque (Nm)            -3.9195E+00    73.50  3.9022E+00   116.30
+  Joint y-comp. torque (Nm)            -7.7946E+01    71.70  2.6341E+01   433.20
+  Joint z-comp. torque (Nm)            -1.9590E+00   101.60  2.6362E+00    73.60
+  Body x-comp. torque (Nm)             -3.9195E+00    73.50  3.9022E+00   116.30
+  Body y-comp. torque (Nm)             -2.6341E+01   433.20  7.7946E+01    71.70
+  Body z-comp. torque (Nm)             -2.6362E+00    73.60  1.9590E+00   101.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7028 ( /Scaled_Hybrid_III_50th/TibiaLowL_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      6.3975E-02   346.00  7.7981E+01    71.70
+  Inertial x-comp. torque (Nm)         -4.1114E+00   435.20  3.0193E+00    73.00
+  Inertial y-comp. torque (Nm)         -7.7883E+01    71.70  2.6308E+01   433.20
+  Inertial z-comp. torque (Nm)         -3.8320E+00   116.70  4.9898E+00    73.50
+  Joint x-comp. torque (Nm)            -3.9022E+00   116.30  3.9195E+00    73.50
+  Joint y-comp. torque (Nm)            -2.6341E+01   433.20  7.7946E+01    71.70
+  Joint z-comp. torque (Nm)            -2.6362E+00    73.60  1.9590E+00   101.60
+  Body x-comp. torque (Nm)             -3.9022E+00   116.30  3.9195E+00    73.50
+  Body y-comp. torque (Nm)             -7.7946E+01    71.70  2.6341E+01   433.20
+  Body z-comp. torque (Nm)             -1.9590E+00   101.60  2.6362E+00    73.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7026 ( /Scaled_Hybrid_III_50th/TibiaUpR_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.9622E-01   385.00  9.4949E+01    70.00
+  Inertial x-comp. torque (Nm)         -3.3751E+00   493.20  6.0089E+00    69.80
+  Inertial y-comp. torque (Nm)         -2.0589E+01   437.40  9.4727E+01    70.10
+  Inertial z-comp. torque (Nm)         -4.2317E+00    38.80  5.1595E+00   433.30
+  Joint x-comp. torque (Nm)            -4.9169E+00    38.80  6.3559E+00   433.30
+  Joint y-comp. torque (Nm)            -9.4882E+01    70.10  2.0614E+01   437.40
+  Joint z-comp. torque (Nm)            -1.1619E+00   494.20  2.0613E+00    80.20
+  Body x-comp. torque (Nm)             -4.9169E+00    38.80  6.3559E+00   433.30
+  Body y-comp. torque (Nm)             -2.0614E+01   437.40  9.4882E+01    70.10
+  Body z-comp. torque (Nm)             -2.0613E+00    80.20  1.1619E+00   494.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7026 ( /Scaled_Hybrid_III_50th/TibiaUpR_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      1.9622E-01   385.00  9.4949E+01    70.00
+  Inertial x-comp. torque (Nm)         -6.0089E+00    69.80  3.3751E+00   493.20
+  Inertial y-comp. torque (Nm)         -9.4727E+01    70.10  2.0589E+01   437.40
+  Inertial z-comp. torque (Nm)         -5.1595E+00   433.30  4.2317E+00    38.80
+  Joint x-comp. torque (Nm)            -6.3559E+00   433.30  4.9169E+00    38.80
+  Joint y-comp. torque (Nm)            -2.0614E+01   437.40  9.4882E+01    70.10
+  Joint z-comp. torque (Nm)            -2.0613E+00    80.20  1.1619E+00   494.20
+  Body x-comp. torque (Nm)             -6.3559E+00   433.30  4.9169E+00    38.80
+  Body y-comp. torque (Nm)             -9.4882E+01    70.10  2.0614E+01   437.40
+  Body z-comp. torque (Nm)             -1.1619E+00   494.20  2.0613E+00    80.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7030 ( /Scaled_Hybrid_III_50th/TibiaLowR_lce_T ) - On parent CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      5.0214E-02   349.80  8.0435E+01    71.00
+  Inertial x-comp. torque (Nm)         -3.1671E+00   437.20  2.5952E+00    70.30
+  Inertial y-comp. torque (Nm)         -2.9741E+01   435.10  8.0388E+01    71.00
+  Inertial z-comp. torque (Nm)         -1.6970E+00   475.70  2.6479E+00   433.30
+  Joint x-comp. torque (Nm)            -2.6838E+00   437.20  2.4397E+00   433.30
+  Joint y-comp. torque (Nm)            -8.0434E+01    71.00  2.9778E+01   435.10
+  Joint z-comp. torque (Nm)            -1.2023E+00    72.70  1.6107E+00    80.20
+  Body x-comp. torque (Nm)             -2.6838E+00   437.20  2.4397E+00   433.30
+  Body y-comp. torque (Nm)             -2.9778E+01   435.10  8.0434E+01    71.00
+  Body z-comp. torque (Nm)             -1.6107E+00    80.20  1.2023E+00    72.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7030 ( /Scaled_Hybrid_III_50th/TibiaLowR_lce_T ) - On child CFC600
+ [ Type : Joint constraint torques ]
+  Resultant constraint torque (Nm)      5.0214E-02   349.80  8.0435E+01    71.00
+  Inertial x-comp. torque (Nm)         -2.5952E+00    70.30  3.1671E+00   437.20
+  Inertial y-comp. torque (Nm)         -8.0388E+01    71.00  2.9741E+01   435.10
+  Inertial z-comp. torque (Nm)         -2.6479E+00   433.30  1.6970E+00   475.70
+  Joint x-comp. torque (Nm)            -2.4397E+00   433.30  2.6838E+00   437.20
+  Joint y-comp. torque (Nm)            -2.9778E+01   435.10  8.0434E+01    71.00
+  Joint z-comp. torque (Nm)            -1.6107E+00    80.20  1.2023E+00    72.70
+  Body x-comp. torque (Nm)             -2.4397E+00   433.30  2.6838E+00   437.20
+  Body y-comp. torque (Nm)             -8.0434E+01    71.00  2.9778E+01   435.10
+  Body z-comp. torque (Nm)             -1.2023E+00    72.70  1.6107E+00    80.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2017 ( /Scaled_Hybrid_III_50th/NeckUp_lce_F_CFC1000 ) - On parent CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.3845E+00   468.50  2.7615E+02   107.70
+  Inertial x-comp. force (N)           -4.3554E+01   104.80  9.9748E+01   136.90
+  Inertial y-comp. force (N)           -9.9498E+00   136.30  5.5997E+00   222.90
+  Inertial z-comp. force (N)           -1.3890E+02   304.60  2.7274E+02   107.70
+  Joint x-comp. force (N)              -1.8128E+01    98.40  9.5404E+01   138.70
+  Joint y-comp. force (N)              -6.2654E+00   222.70  8.5774E+00   136.30
+  Joint z-comp. force (N)              -2.7612E+02   107.70  1.3811E+02   304.70
+  Body x-comp. force (N)               -3.6270E+01    99.00  9.7594E+01   136.90
+  Body y-comp. force (N)               -8.5775E+00   136.30  6.2655E+00   222.70
+  Body z-comp. force (N)               -1.3584E+02   304.80  2.7517E+02   107.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2017 ( /Scaled_Hybrid_III_50th/NeckUp_lce_F_CFC1000 ) - On child CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.3845E+00   468.50  2.7615E+02   107.70
+  Inertial x-comp. force (N)           -9.9748E+01   136.90  4.3554E+01   104.80
+  Inertial y-comp. force (N)           -5.5997E+00   222.90  9.9498E+00   136.30
+  Inertial z-comp. force (N)           -2.7274E+02   107.70  1.3890E+02   304.60
+  Joint x-comp. force (N)              -9.5404E+01   138.70  1.8128E+01    98.40
+  Joint y-comp. force (N)              -8.5774E+00   136.30  6.2654E+00   222.70
+  Joint z-comp. force (N)              -1.3811E+02   304.70  2.7612E+02   107.70
+  Body x-comp. force (N)               -9.5404E+01   138.70  1.8128E+01    98.40
+  Body y-comp. force (N)               -6.2654E+00   222.70  8.5774E+00   136.30
+  Body z-comp. force (N)               -2.7612E+02   107.70  1.3811E+02   304.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2018 ( /Scaled_Hybrid_III_50th/NeckUp_lce_F_CFC600 ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.3845E+00   468.50  2.7599E+02   107.60
+  Inertial x-comp. force (N)           -4.3547E+01   104.90  9.9659E+01   136.70
+  Inertial y-comp. force (N)           -9.9486E+00   136.30  5.5996E+00   222.90
+  Inertial z-comp. force (N)           -1.3890E+02   304.60  2.7257E+02   107.60
+  Joint x-comp. force (N)              -1.8128E+01    98.50  9.5404E+01   138.60
+  Joint y-comp. force (N)              -6.2654E+00   222.70  8.5763E+00   136.30
+  Joint z-comp. force (N)              -2.7596E+02   107.60  1.3811E+02   304.70
+  Body x-comp. force (N)               -3.6271E+01    99.00  9.7504E+01   136.70
+  Body y-comp. force (N)               -8.5763E+00   136.30  6.2654E+00   222.70
+  Body z-comp. force (N)               -1.3584E+02   304.80  2.7498E+02   107.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2018 ( /Scaled_Hybrid_III_50th/NeckUp_lce_F_CFC600 ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.3845E+00   468.50  2.7599E+02   107.60
+  Inertial x-comp. force (N)           -9.9659E+01   136.70  4.3547E+01   104.90
+  Inertial y-comp. force (N)           -5.5996E+00   222.90  9.9486E+00   136.30
+  Inertial z-comp. force (N)           -2.7257E+02   107.60  1.3890E+02   304.60
+  Joint x-comp. force (N)              -9.5404E+01   138.60  1.8128E+01    98.50
+  Joint y-comp. force (N)              -8.5763E+00   136.30  6.2654E+00   222.70
+  Joint z-comp. force (N)              -1.3811E+02   304.70  2.7596E+02   107.60
+  Body x-comp. force (N)               -9.5404E+01   138.60  1.8128E+01    98.50
+  Body y-comp. force (N)               -6.2654E+00   222.70  8.5763E+00   136.30
+  Body z-comp. force (N)               -2.7596E+02   107.60  1.3811E+02   304.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2013 ( /Scaled_Hybrid_III_50th/NeckLow_lce_F ) - On parent CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.6072E+00   467.20  2.9770E+02   107.70
+  Inertial x-comp. force (N)           -1.6632E+02    98.40  8.3270E+01   242.80
+  Inertial y-comp. force (N)           -1.2492E+01   135.00  7.9598E+00   266.60
+  Inertial z-comp. force (N)           -1.7652E+02   304.60  2.5234E+02   107.70
+  Joint x-comp. force (N)              -1.4435E+02    97.00  8.7916E+01    59.70
+  Joint y-comp. force (N)              -9.4344E+00   266.90  1.1928E+01   132.20
+  Joint z-comp. force (N)              -2.7134E+02   107.70  1.7515E+02   304.60
+  Body x-comp. force (N)               -1.4435E+02    97.00  8.7916E+01    59.70
+  Body y-comp. force (N)               -1.1928E+01   132.20  9.4344E+00   266.90
+  Body z-comp. force (N)               -1.7515E+02   304.60  2.7134E+02   107.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2013 ( /Scaled_Hybrid_III_50th/NeckLow_lce_F ) - On child CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.6072E+00   467.20  2.9770E+02   107.70
+  Inertial x-comp. force (N)           -8.3270E+01   242.80  1.6632E+02    98.40
+  Inertial y-comp. force (N)           -7.9598E+00   266.60  1.2492E+01   135.00
+  Inertial z-comp. force (N)           -2.5234E+02   107.70  1.7652E+02   304.60
+  Joint x-comp. force (N)              -8.7916E+01    59.70  1.4435E+02    97.00
+  Joint y-comp. force (N)              -1.1928E+01   132.20  9.4344E+00   266.90
+  Joint z-comp. force (N)              -1.7515E+02   304.60  2.7134E+02   107.70
+  Body x-comp. force (N)               -8.7916E+01    59.70  1.4435E+02    97.00
+  Body y-comp. force (N)               -9.4344E+00   266.90  1.1928E+01   132.20
+  Body z-comp. force (N)               -2.7134E+02   107.70  1.7515E+02   304.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5009 ( /Scaled_Hybrid_III_50th/LumbarSpineUp_lce_F ) - On parent CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        7.6042E+00   214.20  7.5957E+02   306.00
+  Inertial x-comp. force (N)           -2.6217E+02    55.70  3.2988E+02   122.20
+  Inertial y-comp. force (N)           -1.9399E+01   178.60  8.1830E+01   107.70
+  Inertial z-comp. force (N)           -7.2589E+02   306.20  4.1731E+02    97.30
+  Joint x-comp. force (N)              -2.5924E+02    55.80  3.4617E+02    89.20
+  Joint y-comp. force (N)              -8.4082E+01   103.60  1.9151E+01   178.20
+  Joint z-comp. force (N)              -3.8167E+02    97.40  7.2992E+02   306.20
+  Body x-comp. force (N)               -2.6942E+02    55.60  4.1008E+02    89.40
+  Body y-comp. force (N)               -1.9151E+01   178.20  8.4082E+01   103.60
+  Body z-comp. force (N)               -7.5927E+02   306.00  3.2878E+02   105.40
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5009 ( /Scaled_Hybrid_III_50th/LumbarSpineUp_lce_F ) - On child CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        7.6042E+00   214.20  7.5957E+02   306.00
+  Inertial x-comp. force (N)           -3.2988E+02   122.20  2.6217E+02    55.70
+  Inertial y-comp. force (N)           -8.1830E+01   107.70  1.9399E+01   178.60
+  Inertial z-comp. force (N)           -4.1731E+02    97.30  7.2589E+02   306.20
+  Joint x-comp. force (N)              -3.4617E+02    89.20  2.5924E+02    55.80
+  Joint y-comp. force (N)              -1.9151E+01   178.20  8.4082E+01   103.60
+  Joint z-comp. force (N)              -7.2992E+02   306.20  3.8167E+02    97.40
+  Body x-comp. force (N)               -3.8559E+02    89.30  2.6721E+02    55.60
+  Body y-comp. force (N)               -8.4082E+01   103.60  1.9151E+01   178.20
+  Body z-comp. force (N)               -3.4883E+02   105.10  7.5286E+02   306.10
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5007 ( /Scaled_Hybrid_III_50th/LumbarSpineLow_lce_F ) - On parent CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        2.9307E+01   216.00  1.0495E+03    87.00
+  Inertial x-comp. force (N)           -2.9151E+01   215.60  9.6725E+02    87.00
+  Inertial y-comp. force (N)           -5.7821E+01    83.20  1.1140E+02   110.70
+  Inertial z-comp. force (N)           -8.6771E+02   305.90  5.1486E+02    97.10
+  Joint x-comp. force (N)              -4.3669E+02   307.40  9.8943E+02    86.90
+  Joint y-comp. force (N)              -1.2413E+02   110.70  5.1117E+01    65.70
+  Joint z-comp. force (N)              -6.2715E+01   454.60  7.9486E+02   305.30
+  Body x-comp. force (N)               -1.2812E+02   424.60  1.0476E+03    87.00
+  Body y-comp. force (N)               -5.1117E+01    65.70  1.2413E+02   110.70
+  Body z-comp. force (N)               -8.9969E+02   305.60  2.5716E+02   105.50
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5007 ( /Scaled_Hybrid_III_50th/LumbarSpineLow_lce_F ) - On child CFC1000
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        2.9307E+01   216.00  1.0495E+03    87.00
+  Inertial x-comp. force (N)           -9.6725E+02    87.00  2.9151E+01   215.60
+  Inertial y-comp. force (N)           -1.1140E+02   110.70  5.7821E+01    83.20
+  Inertial z-comp. force (N)           -5.1486E+02    97.10  8.6771E+02   305.90
+  Joint x-comp. force (N)              -9.8943E+02    86.90  4.3669E+02   307.40
+  Joint y-comp. force (N)              -5.1117E+01    65.70  1.2413E+02   110.70
+  Joint z-comp. force (N)              -7.9486E+02   305.30  6.2715E+01   454.60
+  Body x-comp. force (N)               -1.0453E+03    87.00  1.1708E+02   424.60
+  Body y-comp. force (N)               -1.2413E+02   110.70  5.1117E+01    65.70
+  Body z-comp. force (N)               -2.7991E+02   104.70  9.0282E+02   305.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7019 ( /Scaled_Hybrid_III_50th/FemurL_lce_F ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        5.0275E+00   442.60  7.7542E+02    64.30
+  Inertial x-comp. force (N)           -3.5190E+02    85.90  7.7016E+02    63.60
+  Inertial y-comp. force (N)           -2.9946E+01   427.70  4.8474E+01    88.90
+  Inertial z-comp. force (N)           -1.8082E+02   424.60  1.8316E+02    70.70
+  Joint x-comp. force (N)              -1.8442E+02   424.60  1.1497E+02    95.70
+  Joint y-comp. force (N)              -5.1877E+01    89.00  3.2839E+01   427.70
+  Joint z-comp. force (N)              -3.3472E+02    85.90  7.6823E+02    64.40
+  Body x-comp. force (N)               -3.4380E+02    85.90  7.7522E+02    64.30
+  Body y-comp. force (N)               -2.7014E+01   427.70  6.0970E+01    88.70
+  Body z-comp. force (N)               -1.8376E+02   424.60  9.6432E+01    73.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7019 ( /Scaled_Hybrid_III_50th/FemurL_lce_F ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        5.0275E+00   442.60  7.7542E+02    64.30
+  Inertial x-comp. force (N)           -7.7016E+02    63.60  3.5190E+02    85.90
+  Inertial y-comp. force (N)           -4.8474E+01    88.90  2.9946E+01   427.70
+  Inertial z-comp. force (N)           -1.8316E+02    70.70  1.8082E+02   424.60
+  Joint x-comp. force (N)              -1.1497E+02    95.70  1.8442E+02   424.60
+  Joint y-comp. force (N)              -3.2839E+01   427.70  5.1877E+01    89.00
+  Joint z-comp. force (N)              -7.6823E+02    64.40  3.3472E+02    85.90
+  Body x-comp. force (N)               -7.7522E+02    64.30  3.4380E+02    85.90
+  Body y-comp. force (N)               -6.0970E+01    88.70  2.7014E+01   427.70
+  Body z-comp. force (N)               -9.6432E+01    73.20  1.8376E+02   424.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7021 ( /Scaled_Hybrid_III_50th/FemurR_lce_F ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        6.9617E+00   445.20  8.2793E+02    63.20
+  Inertial x-comp. force (N)           -3.3309E+02    84.60  8.2418E+02    63.10
+  Inertial y-comp. force (N)           -4.2420E+01   115.40  2.1906E+01   495.70
+  Inertial z-comp. force (N)           -1.9715E+02   427.20  2.0658E+02    71.10
+  Joint x-comp. force (N)              -2.0917E+02   427.20  1.1435E+02    95.90
+  Joint y-comp. force (N)              -2.4377E+01   495.80  4.3067E+01   115.40
+  Joint z-comp. force (N)              -3.3342E+02   433.60  8.1869E+02    63.30
+  Body x-comp. force (N)               -3.2589E+02    84.60  8.2744E+02    63.20
+  Body y-comp. force (N)               -4.7894E+01   115.40  2.7804E+01    68.90
+  Body z-comp. force (N)               -2.0383E+02   427.20  1.2522E+02    72.90
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7021 ( /Scaled_Hybrid_III_50th/FemurR_lce_F ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        6.9617E+00   445.20  8.2793E+02    63.20
+  Inertial x-comp. force (N)           -8.2418E+02    63.10  3.3309E+02    84.60
+  Inertial y-comp. force (N)           -2.1906E+01   495.70  4.2420E+01   115.40
+  Inertial z-comp. force (N)           -2.0658E+02    71.10  1.9715E+02   427.20
+  Joint x-comp. force (N)              -1.1435E+02    95.90  2.0917E+02   427.20
+  Joint y-comp. force (N)              -4.3067E+01   115.40  2.4377E+01   495.80
+  Joint z-comp. force (N)              -8.1869E+02    63.30  3.3342E+02   433.60
+  Body x-comp. force (N)               -8.2744E+02    63.20  3.2589E+02    84.60
+  Body y-comp. force (N)               -2.7804E+01    68.90  4.7894E+01   115.40
+  Body z-comp. force (N)               -1.2522E+02    72.90  2.0383E+02   427.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7023 ( /Scaled_Hybrid_III_50th/TibiaUpL_lce_F ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        7.6761E+00   483.90  1.0818E+03    64.50
+  Inertial x-comp. force (N)           -3.5637E+02   432.10  1.0419E+03    63.80
+  Inertial y-comp. force (N)           -2.5009E+01   428.70  5.2555E+01    69.70
+  Inertial z-comp. force (N)           -1.5311E+02   424.40  3.9514E+02    71.20
+  Joint x-comp. force (N)              -1.6857E+02   431.50  9.3009E+02    66.30
+  Joint y-comp. force (N)              -3.6575E+01   117.20  1.8232E+01   428.50
+  Joint z-comp. force (N)              -3.4554E+02   432.70  6.1184E+02    52.90
+  Body x-comp. force (N)               -1.6857E+02   431.50  9.3009E+02    66.30
+  Body y-comp. force (N)               -1.8232E+01   428.50  3.6575E+01   117.20
+  Body z-comp. force (N)               -6.1184E+02    52.90  3.4554E+02   432.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7023 ( /Scaled_Hybrid_III_50th/TibiaUpL_lce_F ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        7.6761E+00   483.90  1.0818E+03    64.50
+  Inertial x-comp. force (N)           -1.0419E+03    63.80  3.5637E+02   432.10
+  Inertial y-comp. force (N)           -5.2555E+01    69.70  2.5009E+01   428.70
+  Inertial z-comp. force (N)           -3.9514E+02    71.20  1.5311E+02   424.40
+  Joint x-comp. force (N)              -9.3009E+02    66.30  1.6857E+02   431.50
+  Joint y-comp. force (N)              -1.8232E+01   428.50  3.6575E+01   117.20
+  Joint z-comp. force (N)              -6.1184E+02    52.90  3.4554E+02   432.70
+  Body x-comp. force (N)               -9.3009E+02    66.30  1.6857E+02   431.50
+  Body y-comp. force (N)               -3.6575E+01   117.20  1.8232E+01   428.50
+  Body z-comp. force (N)               -3.4554E+02   432.70  6.1184E+02    52.90
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7027 ( /Scaled_Hybrid_III_50th/TibiaLowL_lce_F ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.2992E+00   475.50  5.8362E+02   432.70
+  Inertial x-comp. force (N)           -3.4145E+02    55.10  1.0806E+02   424.40
+  Inertial y-comp. force (N)           -3.7311E+01   430.90  2.5917E+01   116.50
+  Inertial z-comp. force (N)           -3.8050E+02    70.70  4.8457E+02   432.80
+  Joint x-comp. force (N)              -4.6756E+02    70.30  1.1584E+02   435.50
+  Joint y-comp. force (N)              -2.8635E+01   116.40  2.3569E+01   429.70
+  Joint z-comp. force (N)              -5.7509E+02   432.70  8.9323E+01   396.20
+  Body x-comp. force (N)               -4.6756E+02    70.30  1.1584E+02   435.50
+  Body y-comp. force (N)               -2.3569E+01   429.70  2.8635E+01   116.40
+  Body z-comp. force (N)               -8.9323E+01   396.20  5.7509E+02   432.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7027 ( /Scaled_Hybrid_III_50th/TibiaLowL_lce_F ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.2992E+00   475.50  5.8362E+02   432.70
+  Inertial x-comp. force (N)           -1.0806E+02   424.40  3.4145E+02    55.10
+  Inertial y-comp. force (N)           -2.5917E+01   116.50  3.7311E+01   430.90
+  Inertial z-comp. force (N)           -4.8457E+02   432.80  3.8050E+02    70.70
+  Joint x-comp. force (N)              -1.1584E+02   435.50  4.6756E+02    70.30
+  Joint y-comp. force (N)              -2.3569E+01   429.70  2.8635E+01   116.40
+  Joint z-comp. force (N)              -8.9323E+01   396.20  5.7509E+02   432.70
+  Body x-comp. force (N)               -1.1584E+02   435.50  4.6756E+02    70.30
+  Body y-comp. force (N)               -2.8635E+01   116.40  2.3569E+01   429.70
+  Body z-comp. force (N)               -5.7509E+02   432.70  8.9323E+01   396.20
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7025 ( /Scaled_Hybrid_III_50th/TibiaUpR_lce_F ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        7.7945E+00   386.50  1.1251E+03    63.50
+  Inertial x-comp. force (N)           -3.8504E+02   433.50  1.0896E+03    63.20
+  Inertial y-comp. force (N)           -2.4370E+01    59.20  2.4948E+01   433.70
+  Inertial z-comp. force (N)           -1.5757E+02   427.00  4.1440E+02    70.90
+  Joint x-comp. force (N)              -1.7920E+02   433.10  9.5520E+02    64.80
+  Joint y-comp. force (N)              -2.2339E+01    69.40  1.6466E+01   115.60
+  Joint z-comp. force (N)              -3.7180E+02   434.90  6.3699E+02    58.30
+  Body x-comp. force (N)               -1.7920E+02   433.10  9.5520E+02    64.80
+  Body y-comp. force (N)               -1.6466E+01   115.60  2.2339E+01    69.40
+  Body z-comp. force (N)               -6.3699E+02    58.30  3.7180E+02   434.90
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7025 ( /Scaled_Hybrid_III_50th/TibiaUpR_lce_F ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        7.7945E+00   386.50  1.1251E+03    63.50
+  Inertial x-comp. force (N)           -1.0896E+03    63.20  3.8504E+02   433.50
+  Inertial y-comp. force (N)           -2.4948E+01   433.70  2.4370E+01    59.20
+  Inertial z-comp. force (N)           -4.1440E+02    70.90  1.5757E+02   427.00
+  Joint x-comp. force (N)              -9.5520E+02    64.80  1.7920E+02   433.10
+  Joint y-comp. force (N)              -1.6466E+01   115.60  2.2339E+01    69.40
+  Joint z-comp. force (N)              -6.3699E+02    58.30  3.7180E+02   434.90
+  Body x-comp. force (N)               -9.5520E+02    64.80  1.7920E+02   433.10
+  Body y-comp. force (N)               -2.2339E+01    69.40  1.6466E+01   115.60
+  Body z-comp. force (N)               -3.7180E+02   434.90  6.3699E+02    58.30
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7029 ( /Scaled_Hybrid_III_50th/TibiaLowR_lce_F ) - On parent CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.6299E+00   465.60  6.3738E+02   434.90
+  Inertial x-comp. force (N)           -4.0445E+02   429.20  1.3234E+02   427.10
+  Inertial y-comp. force (N)           -1.3430E+01   386.20  5.3615E+01   433.30
+  Inertial z-comp. force (N)           -3.9242E+02    70.10  5.3685E+02   435.00
+  Joint x-comp. force (N)              -4.7923E+02    69.70  1.3565E+02   437.80
+  Joint y-comp. force (N)              -3.2089E+01   433.30  1.3911E+01   390.10
+  Joint z-comp. force (N)              -6.2499E+02   434.90  9.0523E+01   427.00
+  Body x-comp. force (N)               -4.7923E+02    69.70  1.3565E+02   437.80
+  Body y-comp. force (N)               -1.3911E+01   390.10  3.2089E+01   433.30
+  Body z-comp. force (N)               -9.0523E+01   427.00  6.2499E+02   434.90
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/7029 ( /Scaled_Hybrid_III_50th/TibiaLowR_lce_F ) - On child CFC600
+ [ Type : Joint constraint forces ]
+  Resultant constraint force (N)        1.6299E+00   465.60  6.3738E+02   434.90
+  Inertial x-comp. force (N)           -1.3234E+02   427.10  4.0445E+02   429.20
+  Inertial y-comp. force (N)           -5.3615E+01   433.30  1.3430E+01   386.20
+  Inertial z-comp. force (N)           -5.3685E+02   435.00  3.9242E+02    70.10
+  Joint x-comp. force (N)              -1.3565E+02   437.80  4.7923E+02    69.70
+  Joint y-comp. force (N)              -1.3911E+01   390.10  3.2089E+01   433.30
+  Joint z-comp. force (N)              -9.0523E+01   427.00  6.2499E+02   434.90
+  Body x-comp. force (N)               -1.3565E+02   437.80  4.7923E+02    69.70
+  Body y-comp. force (N)               -3.2089E+01   433.30  1.3911E+01   390.10
+  Body z-comp. force (N)               -6.2499E+02   434.90  9.0523E+01   427.00
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /7/1 ( /Sled/SeatbackJoint_pos ) - joint /7/3 ( /Sled/Seatback_Joint ) LPFILTER
+ [ Type : Joint positions ]
+  joint position degree of freedom 1   -9.1410E-02   110.20 -7.4876E-04   -93.40
+  joint position degree of freedom 2    0.0000E+00   -93.40  0.0000E+00   -93.40
+  joint position degree of freedom 3    0.0000E+00   -93.40  0.0000E+00   -93.40
+  joint position degree of freedom 4    0.0000E+00   -93.40  0.0000E+00   -93.40
+  joint position degree of freedom 5    0.0000E+00   -93.40  0.0000E+00   -93.40
+  joint position degree of freedom 6    0.0000E+00   -93.40  0.0000E+00   -93.40
+  joint position degree of freedom 7    0.0000E+00   -93.40  0.0000E+00   -93.40
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2049 ( /Scaled_Hybrid_III_50th/NeckUp_Fz_lce ) - LOAD_CELL Force (N)   FILTER=CFC1000
+ [ Type : Injury ]
+  -                                    -1.3811E+02   304.70  2.7612E+02   107.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2052 ( /Scaled_Hybrid_III_50th/NeckUp_My_lce ) - LOAD_CELL Torque (Nm) FILTER=CFC600
+ [ Type : Injury ]
+  -                                    -9.0173E+00   138.70  1.6130E+01    83.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2041 ( /Scaled_Hybrid_III_50th/NeckLow_Fz_lce ) - LOAD_CELL Force (N)   FILTER=CFC1000
+ [ Type : Injury ]
+  -                                    -1.7515E+02   304.60  2.7134E+02   107.70
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/2044 ( /Scaled_Hybrid_III_50th/NeckLow_My_lce ) - LOAD_CELL Torque (Nm) FILTER=CFC600
+ [ Type : Injury ]
+  -                                    -2.3739E+01   107.70  2.7620E+01    68.80
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5026 ( /Scaled_Hybrid_III_50th/LumbarSpineLow_Fz_lce ) - LOAD_CELL Force (N)   FILTER=CFC1000
+ [ Type : Injury ]
+  -                                    -7.9486E+02   305.30  6.2715E+01   454.60
+
+
+- identifier ----------------------------- min ------- time --- max ------- time
+                                                       (ms)                 (ms)
+ /2/5029 ( /Scaled_Hybrid_III_50th/LumbarSpineLow_My_lce ) - LOAD_CELL Torque (Nm) FILTER=CFC1000
+ [ Type : Injury ]
+  -                                    -2.4848E+01   105.00  4.2517E+01   196.60
+
+
+--------------------------------------------------------------------------------
