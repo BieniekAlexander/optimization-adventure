@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE MADYMO_INCLUDE SYSTEM "mtd_3d.dtd">
+<MADYMO_INCLUDE DESCRIPTION="Template Madymo include file" RELEASE="R2020.1">
+   <DEFINE VALUE="1.5" VAR_NAME="Friction_Seat" />
+   <DEFINE VALUE="1.5" VAR_NAME="Friction_Headrest" />
+</MADYMO_INCLUDE>

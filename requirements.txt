@@ -1,0 +1,7 @@
+scikit-optimize
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
